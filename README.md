@@ -29,14 +29,16 @@
     </div>
   </div>
 
-  <hr style="height:1px;border-width:0;color:gray;background-color:gray" />
+  <br />
 
-  <h2>👨🏻‍💻 whoami</h2>
-  <p>
-    a highly resourceful IT professional with solid knowledge in software development and devops, dealing with different technologies to follow best practices and achieve the deployment of highly available and scalable applications
-  </p>
+  <div>
+    <h2>👨🏻‍💻 whoami</h2>
+    <p>
+      a highly resourceful IT professional with solid knowledge in software development and devops, dealing with different technologies to follow best practices and achieve the deployment of highly available and scalable applications
+    </p>
+  </div>
 
-  <hr style="height:1px;border-width:0;color:gray;background-color:gray" />
+  <br />
 
   <h2>🛠 tech stack</h2>
   <div>
