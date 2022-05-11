@@ -34,7 +34,7 @@
   <div>
     <h2>👨🏻‍💻 whoami</h2>
     <p>
-      an IT professional with solid knowledge in software development and devops, dealing with different technologies to follow best practices and achieve the deployment of highly available and scalable applications. i'm also into music, videogames, and memes
+      an IT professional with solid knowledge in software development and devops, dealing with different technologies and following best practices to achieve the deployment of highly available and scalable applications. i'm also into music, videogames, and memes
     </p>
   </div>
 
