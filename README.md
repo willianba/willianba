@@ -69,7 +69,7 @@
             </div>
             <div>
               <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/>
-              <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square&logoColor=white"/>
+              <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square&logo=express&logoColor=white"/>
               <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-161e26?style=flat-square&logo=graphql"/>
               <img alt="Jest" src="https://img.shields.io/badge/jest%20-%23C21325?&style=flat-square&logo=jest&logoColor=white"/>
             </div>
