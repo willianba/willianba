@@ -4,18 +4,18 @@
     <div>
       <img
         src="./img/pucrs-logo.png"
-        height="16px"
-        weight="16px"
+        height="14px"
+        weight="14px"
         display="block">
         bachelor in information systems @ pucrs
       </img>
       <br />
       <img
-        src="./img/sap-logo.png"
-        height="10px"
-        weight="10px"
+        src="./img/goodkind-logo.png"
+        height="14px"
+        weight="14px"
         display="block">
-        software developer @ sap
+        back-end engineer @ goodkind
       </img>
     </div>
     <br />
